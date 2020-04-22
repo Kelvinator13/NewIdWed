@@ -154,3 +154,12 @@ C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\De
 C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\IdWedNu.dll
 C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\IdWedNu.pdb
 C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\IdWedNu.genruntimeconfig.cache
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\_LoginPartial.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs

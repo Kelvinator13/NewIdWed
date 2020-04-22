@@ -13,6 +13,13 @@ namespace IdWedNu.Pages
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
+#line 2 "C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\_ViewImports.cshtml"
+using IdWedNu.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 1 "C:\Users\kelvi\OneDrive\Desktop\DevCodeCa\Week 11\Project\IdWedNu\IdWedNu\Pages\_ViewImports.cshtml"
 using Microsoft.AspNetCore.Identity;
 
@@ -34,6 +41,7 @@ using IdWedNu.Data;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"71283ed71bcc45553a3d7ba97023f0f74e93efa8", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d749a639106b31bd7598f182265a64ea8806c2b4", @"/_ViewImports.cshtml")]
     public class Pages__ViewImports : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
