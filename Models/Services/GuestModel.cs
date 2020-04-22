@@ -19,11 +19,11 @@ namespace IdWedNu.Models.Services
         public IdentityUser IdentityUser { get; set; }
 
         var userId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
-        customer.IdentityUserId = userId;
-        _context.Add(customer);
+        guest.IdentityUserId = userId;
+        _context.Add(guest);
         _context.SaveChanges();
 
         var userId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
-        var customer = _context.Customers.Where(c => c.IdentityUserId == userId).SingleOrDefault();
+        var guest = _context.Guests.Where(c => c.IdentityUserId == userId).SingleOrDefault();
     }
 }

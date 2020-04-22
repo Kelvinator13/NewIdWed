@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -10,12 +12,19 @@ namespace IdWedNu.ActionFilters
         public class GlobalRouting : IActionFilter
         {
             private readonly ClaimsPrincipal _claimsPrincipal;
+            private object context;
+
             public GlobalRouting(ClaimsPrincipal claimsPrincipal)
             {
                 _claimsPrincipal = claimsPrincipal;
             }
 
             public void OnActionExecuting(ActionExecutingContext context)
+            {
+
+            }
+
+            public void OnActionExecuting()
             {
                 var controller = context.RouteData.Values["controller"];
                 if (controller.Equals("Home"))
