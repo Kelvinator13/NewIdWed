@@ -19,7 +19,8 @@ namespace IdWedNu.Models.Services
         public Geometry geometry { get; set; }
         public string icon { get; set; }
         public string id { get; set; }
-        public string name { get; set; }// restaurant name
+        public string name { get; set; }// Wedding venue name
+        
         public Opening_Hours opening_hours { get; set; }
         public Photo[] Photos { get; set; }
         public string place_id { get; set; }
